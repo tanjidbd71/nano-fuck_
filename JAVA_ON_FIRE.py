@@ -3,7 +3,7 @@
 import platform,os,sys
 bit = platform.architecture()[0]
 if bit == '64bit':
-    import dec_done
+    import FUCK
 elif bit == '32bit':
     print(" [#] Sorry bit is not requent right now")
     print(" [#] Sorry Tool Offf Came To Inbox ")
